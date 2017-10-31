@@ -7,4 +7,4 @@ Team Members
 1) Kanika Saini (https://github.com/kanikasaini)
 2) Lavina Jain (https://github.com/lavinajain)
 3) Siddharth Dhawan (https://github.com/sid-dhawan)
-4) Zoha Hamid (https://github.com/zohahamid)
+4) Zoha Hamid (https://github.com/zohamid)
